@@ -1,5 +1,5 @@
 # epyks_ 
-##### Traceless Encrypted messaging platform - local data only - choose epyks!
+##### Traceless encrypted messaging platform - local data only - choose epyks!
 <img width="450" height="420" alt="epyks logo commercial" src="https://github.com/user-attachments/assets/ce708053-92d6-4fbe-8dd3-0d0d736f50ed" />
 
 
