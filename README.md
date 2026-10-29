@@ -14,6 +14,6 @@ Created by a regular person, who actually cares about other people!
 
 ### **Microsoft Store:** https://apps.microsoft.com/detail/9NDZD1NDGS0C?hl=en-us&gl=CA&ocid=pdpshare
 
-## **Android:** 
+## **iOS:** 
 
-## **IOS:**
+## **Android:**
