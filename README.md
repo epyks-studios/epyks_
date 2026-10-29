@@ -5,7 +5,7 @@
 
 Created by a regular person, who actually cares about other people!
 
-For a full list of features: https://epyks.org (donations appreciated)
+(donations appreciated)
 
 
 
