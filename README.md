@@ -9,7 +9,7 @@ Created by a regular person, who actually cares about other people!
 
 
 
-### **Official Website/Download:** https://epyks.org
+### **Website:** https://epyks.org
 
 
 ### **Microsoft Store:** https://apps.microsoft.com/detail/9NDZD1NDGS0C?hl=en-us&gl=CA&ocid=pdpshare
