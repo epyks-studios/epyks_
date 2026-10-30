@@ -5,7 +5,6 @@
 
 Created by a regular person, who actually cares about our privacy!
 
-(donations appreciated)
 
 
 
@@ -14,6 +13,8 @@ Created by a regular person, who actually cares about our privacy!
 
 ### **Microsoft Store:** https://apps.microsoft.com/detail/9NDZD1NDGS0C?hl=en-us&gl=CA&ocid=pdpshare
 
-## **iOS:** 
+### **iOS:** https://apps.apple.com/ca/app/epyks/id6820198145
 
-## **Android:**
+### **Android:**
+
+### **Donations:** https://square.link/u/01cbWqmu
